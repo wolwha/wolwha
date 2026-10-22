@@ -47,6 +47,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wolwha&show_icons=true&theme=radial&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolwha&layout=compact&theme=radial&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wolwha&theme=radial" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wolwha&theme=radial" />
 </p>
